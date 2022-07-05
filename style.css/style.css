@@ -1,0 +1,17 @@
+h1 {
+    font-size: 50px;
+
+}
+
+body {
+    font-family: 'poppin', sans-serif;
+
+}
+
+.color {
+    color: orange;
+}
+
+section {
+    display: flex;
+}
